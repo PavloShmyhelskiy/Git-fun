@@ -1,1 +1,2 @@
-const ACCESS_KEY = process.env.KEY;
+// Third-party service
+const ACCESS_KEY = process.env.KEY
